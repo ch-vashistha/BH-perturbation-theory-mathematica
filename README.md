@@ -1,4 +1,4 @@
-# Black Hole Perturbation Theory in Mathematica
+# Black Hole Perturbation Theory with Mathematica (xAct)
 
 This repository contains a collection of Mathematica notebooks developed for the Black Hole Perturbation Theory module of the GW Foundations course at IUCAA.
 
