@@ -8,7 +8,7 @@ These notebooks closely follow the approach presented in Emanuele Berti's ICTS l
 - Scalar, vector, and tensor spherical harmonics
 - Scalar field perturbations
 - Electromagnetic perturbations
-- Regge-Wheeler equation (upcoming)
+- Regge-Wheeler equation
 - Zerilli equation (upcoming)
 - Isospectrality and Chandrasekhar transformations (upcoming)
 -  Quasinormal mode calculations (upcoming)
