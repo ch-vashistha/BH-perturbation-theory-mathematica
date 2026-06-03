@@ -1,6 +1,6 @@
 # Black Hole Perturbation Theory with Mathematica (xAct)
 
-This repository contains a collection of Mathematica notebooks developed for the Black Hole Perturbation Theory module of the GW Foundations course at IUCAA.
+This repository contains a collection of Mathematica notebooks developed for the Black Hole Perturbation Theory module of the GW Foundations course at IUCAA (May-June 2026).
 
 These notebooks closely follow the approach presented in Emanuele Berti's ICTS lecture notes and use the xAct package for tensor calculations. 
 
